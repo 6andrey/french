@@ -4,6 +4,24 @@
 
 ### Verbes en -ER
 
+**Conjugation Rules for -ER verbs:**
+- **Présent:** Remove -er, add: -e, -es, -e, -ons, -ez, -ent
+- **Futur Proche:** Use present tense of "aller" + infinitive
+- **Passé Composé:** Use present tense of "avoir" + past participle (-é)
+
+**Example pattern with "parler":**
+- je parle, tu parles, il/elle parle, nous parlons, vous parlez, ils/elles parlent
+- je vais parler, tu vas parler, il/elle va parler, nous allons parler, vous allez parler, ils/elles vont parler
+- j'ai parlé, tu as parlé, il/elle a parlé, nous avons parlé, vous avez parlé, ils/elles ont parlé
+
+**Special cases:**
+- Verbs ending in -cer: Add ç before o (nous plaçons, nous déplaçons)
+- Verbs ending in -ger: Add e before o (nous mangeons, nous nageons, nous partageons)
+- Verbs like "appeler, rappeler": Double the consonant (j'appelle, je rappelle)
+- Verbs like "acheter, peler": Add grave accent (j'achète, je pèle)
+
+---
+
 #### peler (to peel) [pəle]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
@@ -396,6 +414,18 @@
 
 ### Verbes en -IR (réguliers)
 
+**Conjugation Rules for -IR verbs (like choisir):**
+- **Présent:** Remove -ir, add: -is, -is, -it, -issons, -issez, -issent
+- **Futur Proche:** Use present tense of "aller" + infinitive
+- **Passé Composé:** Use present tense of "avoir" + past participle (-i)
+
+**Example pattern with "choisir":**
+- je choisis, tu choisis, il/elle choisit, nous choisissons, vous choisissez, ils/elles choisissent
+- je vais choisir, tu vas choisir, il/elle va choisir, nous allons choisir, vous allez choisir, ils/elles vont choisir
+- j'ai choisi, tu as choisi, il/elle a choisi, nous avons choisi, vous avez choisi, ils/elles ont choisi
+
+---
+
 #### choisir (to choose) [ʃwaziʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
@@ -407,6 +437,20 @@
 | ils/elles | choisissent | vont choisir | ont choisi |
 
 ### Verbes en -RE (réguliers)
+
+**Conjugation Rules for -RE verbs:**
+- **Présent:** Remove -re, add: -s, -s, -, -ons, -ez, -ent
+- **Futur Proche:** Use present tense of "aller" + infinitive
+- **Passé Composé:** Use present tense of "avoir" + past participle (-u)
+
+**Example pattern with "répondre":**
+- je réponds, tu réponds, il/elle répond, nous répondons, vous répondez, ils/elles répondent
+- je vais répondre, tu vas répondre, il/elle va répondre, nous allons répondre, vous allez répondre, ils/elles vont répondre
+- j'ai répondu, tu as répondu, il/elle a répondu, nous avons répondu, vous avez répondu, ils/elles ont répondu
+
+**Note:** Third person singular (il/elle) has no ending - just the stem.
+
+---
 
 #### battre (to beat, to whisk) [batʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
@@ -441,6 +485,16 @@
 ---
 
 ## Verbes Irréguliers
+
+**Note about irregular verbs:**
+Irregular verbs don't follow standard patterns and must be memorized individually. Common irregular verbs include: être, avoir, aller, faire, pouvoir, vouloir, savoir, venir, prendre, etc.
+
+**Some patterns to note:**
+- Verbs with être in passé composé (DR & MRS VANDERTRAMP): aller, venir, partir, arriver, etc.
+- Past participles vary: mettre→mis, faire→fait, prendre→pris, écrire→écrit, lire→lu, voir→vu
+- Stem changes are common: pouvoir (je peux, nous pouvons), venir (je viens, nous venons)
+
+---
 
 #### mélanger (to mix) [melɑ̃ʒe]
 | Pronom | Présent | Futur Proche | Passé Composé |
@@ -683,6 +737,20 @@
 | ils/elles | connaissent | vont connaître | ont connu |
 
 ### Verbes Pronominaux
+
+**Conjugation Rules for Pronominal verbs:**
+- **Présent:** Add reflexive pronoun before verb: me, te, se, nous, vous, se
+- **Futur Proche:** Reflexive pronoun goes before infinitive: vais me reposer
+- **Passé Composé:** Always use "être" as auxiliary + past participle with agreement
+
+**Example pattern with "se laver":**
+- je me lave, tu te laves, il/elle se lave, nous nous lavons, vous vous lavez, ils/elles se lavent
+- je vais me laver, tu vas te laver, il/elle va se laver, nous allons nous laver, vous allez vous laver, ils/elles vont se laver
+- je me suis lavé(e), tu t'es lavé(e), il/elle s'est lavé(e), nous nous sommes lavé(e)s, vous vous êtes lavé(e)(s), ils/elles se sont lavé(e)s
+
+**Important:** The past participle agrees with the subject in gender and number: -e (feminine), -s (plural), -es (feminine plural).
+
+---
 
 #### se reposer (to rest) [sə ʁəpoze]
 | Pronom | Présent | Futur Proche | Passé Composé |
