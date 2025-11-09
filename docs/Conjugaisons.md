@@ -551,7 +551,7 @@
 Irregular verbs don't follow standard patterns and must be memorized individually. Common irregular verbs include: être, avoir, aller, faire, pouvoir, vouloir, savoir, venir, prendre, etc.
 
 **Some patterns to note:**
-- Verbs with être in passé composé (DR & MRS VANDERTRAMP): aller, venir, partir, arriver, etc.
+- Verbs with être in passé composé: aller, venir, partir, arriver, etc.
 - Past participles vary: mettre→mis, faire→fait, prendre→pris, écrire→écrit, lire→lu, voir→vu
 - Stem changes are common: pouvoir (je peux, nous pouvons), venir (je viens, nous venons)
 
