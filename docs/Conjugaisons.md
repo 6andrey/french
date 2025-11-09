@@ -4,7 +4,7 @@
 
 ### Verbes en -ER
 
-#### peler (to peel)
+#### peler (to peel) [pəle]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | pèle | vais peler | ai pelé |
@@ -14,7 +14,7 @@
 | vous | pelez | allez peler | avez pelé |
 | ils/elles | pèlent | vont peler | ont pelé |
 
-#### saupoudrer (to sprinkle)
+#### saupoudrer (to sprinkle) [sopudʁe]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | saupoudre | vais saupoudrer | ai saupoudré |
@@ -24,7 +24,7 @@
 | vous | saupoudrez | allez saupoudrer | avez saupoudré |
 | ils/elles | saupoudrent | vont saupoudrer | ont saupoudré |
 
-#### couper (to cut)
+#### couper (to cut) [kupe]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | coupe | vais couper | ai coupé |
@@ -34,7 +34,7 @@
 | vous | coupez | allez couper | avez coupé |
 | ils/elles | coupent | vont couper | ont coupé |
 
-#### étendre (to spread, to extend)
+#### étendre (to spread, to extend) [etɑ̃dʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | étends | vais étendre | ai étendu |
@@ -44,7 +44,7 @@
 | vous | étendez | allez étendre | avez étendu |
 | ils/elles | étendent | vont étendre | ont étendu |
 
-#### incorporer (to incorporate, to mix in)
+#### incorporer (to incorporate, to mix in) [ɛ̃kɔʁpɔʁe]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | incorpore | vais incorporer | ai incorporé |
@@ -54,7 +54,7 @@
 | vous | incorporez | allez incorporer | avez incorporé |
 | ils/elles | incorporent | vont incorporer | ont incorporé |
 
-#### verser (to pour)
+#### verser (to pour) [vɛʁse]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | verse | vais verser | ai versé |
@@ -64,7 +64,7 @@
 | vous | versez | allez verser | avez versé |
 | ils/elles | versent | vont verser | ont versé |
 
-#### préparer (to prepare)
+#### préparer (to prepare) [pʁepaʁe]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | prépare | vais préparer | ai préparé |
@@ -74,7 +74,7 @@
 | vous | préparez | allez préparer | avez préparé |
 | ils/elles | préparent | vont préparer | ont préparé |
 
-#### aimer (to like, to love)
+#### aimer (to like, to love) [ɛme]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | aime | vais aimer | ai aimé |
@@ -84,7 +84,7 @@
 | vous | aimez | allez aimer | avez aimé |
 | ils/elles | aiment | vont aimer | ont aimé |
 
-#### adorer (to adore, to love)
+#### adorer (to adore, to love) [adɔʁe]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | adore | vais adorer | ai adoré |
@@ -94,7 +94,7 @@
 | vous | adorez | allez adorer | avez adoré |
 | ils/elles | adorent | vont adorer | ont adoré |
 
-#### détester (to hate, to detest)
+#### détester (to hate, to detest) [detɛste]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | déteste | vais détester | ai détesté |
@@ -104,7 +104,7 @@
 | vous | détestez | allez détester | avez détesté |
 | ils/elles | détestent | vont détester | ont détesté |
 
-#### rappeler (to call back, to remind)
+#### rappeler (to call back, to remind) [ʁaple]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | rappelle | vais rappeler | ai rappelé |
@@ -114,7 +114,7 @@
 | vous | rappelez | allez rappeler | avez rappelé |
 | ils/elles | rappellent | vont rappeler | ont rappelé |
 
-#### égoutter (to drain)
+#### égoutter (to drain) [egute]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | égoutte | vais égoutter | ai égoutté |
@@ -124,7 +124,7 @@
 | vous | égouttez | allez égoutter | avez égoutté |
 | ils/elles | égouttent | vont égoutter | ont égoutté |
 
-#### hacher (to chop, to mince)
+#### hacher (to chop, to mince) [aʃe]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | hache | vais hacher | ai haché |
@@ -134,7 +134,7 @@
 | vous | hachez | allez hacher | avez haché |
 | ils/elles | hachent | vont hacher | ont haché |
 
-#### déposer (to deposit, to drop off)
+#### déposer (to deposit, to drop off) [depoze]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | dépose | vais déposer | ai déposé |
@@ -144,7 +144,7 @@
 | vous | déposez | allez déposer | avez déposé |
 | ils/elles | déposent | vont déposer | ont déposé |
 
-#### parler (to speak, to talk)
+#### parler (to speak, to talk) [paʁle]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | parle | vais parler | ai parlé |
@@ -154,7 +154,7 @@
 | vous | parlez | allez parler | avez parlé |
 | ils/elles | parlent | vont parler | ont parlé |
 
-#### saluer (to greet, to say hello)
+#### saluer (to greet, to say hello) [salɥe]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | salue | vais saluer | ai salué |
@@ -164,7 +164,7 @@
 | vous | saluez | allez saluer | avez salué |
 | ils/elles | saluent | vont saluer | ont salué |
 
-#### amener (to bring someone)
+#### amener (to bring someone) [amne]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | amène | vais amener | ai amené |
@@ -174,7 +174,7 @@
 | vous | amenez | allez amener | avez amené |
 | ils/elles | amènent | vont amener | ont amené |
 
-#### nager (to swim)
+#### nager (to swim) [naʒe]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | nage | vais nager | ai nagé |
@@ -184,7 +184,7 @@
 | vous | nagez | allez nager | avez nagé |
 | ils/elles | nagent | vont nager | ont nagé |
 
-#### attacher (to attach, to tie)
+#### attacher (to attach, to tie) [ataʃe]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | attache | vais attacher | ai attaché |
@@ -194,7 +194,7 @@
 | vous | attachez | allez attacher | avez attaché |
 | ils/elles | attachent | vont attacher | ont attaché |
 
-#### trouver (to find)
+#### trouver (to find) [tʁuve]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | trouve | vais trouver | ai trouvé |
@@ -204,7 +204,7 @@
 | vous | trouvez | allez trouver | avez trouvé |
 | ils/elles | trouvent | vont trouver | ont trouvé |
 
-#### échanger (to exchange)
+#### échanger (to exchange) [eʃɑ̃ʒe]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | échange | vais échanger | ai échangé |
@@ -214,7 +214,7 @@
 | vous | échangez | allez échanger | avez échangé |
 | ils/elles | échangent | vont échanger | ont échangé |
 
-#### troquer (to barter, to swap)
+#### troquer (to barter, to swap) [tʁɔke]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | troque | vais troquer | ai troqué |
@@ -224,7 +224,7 @@
 | vous | troquez | allez troquer | avez troqué |
 | ils/elles | troquent | vont troquer | ont troqué |
 
-#### exprimer (to express)
+#### exprimer (to express) [ɛkspʁime]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | exprime | vais exprimer | ai exprimé |
@@ -234,7 +234,7 @@
 | vous | exprimez | allez exprimer | avez exprimé |
 | ils/elles | expriment | vont exprimer | ont exprimé |
 
-#### essayer (to try)
+#### essayer (to try) [eseje]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | essaie / essaye | vais essayer | ai essayé |
@@ -244,7 +244,7 @@
 | vous | essayez | allez essayer | avez essayé |
 | ils/elles | essaient / essayent | vont essayer | ont essayé |
 
-#### louer (to rent, to praise)
+#### louer (to rent, to praise) [lwe]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | loue | vais louer | ai loué |
@@ -254,7 +254,7 @@
 | vous | louez | allez louer | avez loué |
 | ils/elles | louent | vont louer | ont loué |
 
-#### visiter (to visit)
+#### visiter (to visit) [vizite]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | visite | vais visiter | ai visité |
@@ -264,7 +264,7 @@
 | vous | visitez | allez visiter | avez visité |
 | ils/elles | visitent | vont visiter | ont visité |
 
-#### cuisiner (to cook)
+#### cuisiner (to cook) [kɥizine]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | cuisine | vais cuisiner | ai cuisiné |
@@ -274,7 +274,7 @@
 | vous | cuisinez | allez cuisiner | avez cuisiné |
 | ils/elles | cuisinent | vont cuisiner | ont cuisiné |
 
-#### regarder (to watch, to look at)
+#### regarder (to watch, to look at) [ʁəɡaʁde]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | regarde | vais regarder | ai regardé |
@@ -284,7 +284,7 @@
 | vous | regardez | allez regarder | avez regardé |
 | ils/elles | regardent | vont regarder | ont regardé |
 
-#### jouer (to play)
+#### jouer (to play) [ʒwe]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | joue | vais jouer | ai joué |
@@ -294,7 +294,7 @@
 | vous | jouez | allez jouer | avez joué |
 | ils/elles | jouent | vont jouer | ont joué |
 
-#### passer (to pass, to spend time)
+#### passer (to pass, to spend time) [pase]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | passe | vais passer | ai passé |
@@ -304,7 +304,7 @@
 | vous | passez | allez passer | avez passé |
 | ils/elles | passent | vont passer | ont passé |
 
-#### brosser (to brush)
+#### brosser (to brush) [bʁɔse]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | brosse | vais brosser | ai brossé |
@@ -314,7 +314,7 @@
 | vous | brossez | allez brosser | avez brossé |
 | ils/elles | brossent | vont brosser | ont brossé |
 
-#### déplacer (to move, to displace)
+#### déplacer (to move, to displace) [deplase]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | déplace | vais déplacer | ai déplacé |
@@ -324,7 +324,7 @@
 | vous | déplacez | allez déplacer | avez déplacé |
 | ils/elles | déplacent | vont déplacer | ont déplacé |
 
-#### partager (to share)
+#### partager (to share) [paʁtaʒe]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | partage | vais partager | ai partagé |
@@ -334,7 +334,7 @@
 | vous | partagez | allez partager | avez partagé |
 | ils/elles | partagent | vont partager | ont partagé |
 
-#### participer (to participate)
+#### participer (to participate) [paʁtisipe]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | participe | vais participer | ai participé |
@@ -344,7 +344,7 @@
 | vous | participez | allez participer | avez participé |
 | ils/elles | participent | vont participer | ont participé |
 
-#### découvrir (to discover)
+#### découvrir (to discover) [dekuvʁiʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | découvre | vais découvrir | ai découvert |
@@ -354,7 +354,7 @@
 | vous | découvrez | allez découvrir | avez découvert |
 | ils/elles | découvrent | vont découvrir | ont découvert |
 
-#### parcourir (to travel through, to browse)
+#### parcourir (to travel through, to browse) [paʁkuʁiʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | parcours | vais parcourir | ai parcouru |
@@ -364,7 +364,7 @@
 | vous | parcourez | allez parcourir | avez parcouru |
 | ils/elles | parcourent | vont parcourir | ont parcouru |
 
-#### jardiner (to garden)
+#### jardiner (to garden) [ʒaʁdine]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | jardine | vais jardiner | ai jardiné |
@@ -374,7 +374,7 @@
 | vous | jardinez | allez jardiner | avez jardiné |
 | ils/elles | jardinent | vont jardiner | ont jardiné |
 
-#### voyager (to travel)
+#### voyager (to travel) [vwajaʒe]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | voyage | vais voyager | ai voyagé |
@@ -384,7 +384,7 @@
 | vous | voyagez | allez voyager | avez voyagé |
 | ils/elles | voyagent | vont voyager | ont voyagé |
 
-#### demander (to ask, to request)
+#### demander (to ask, to request) [dəmɑ̃de]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | demande | vais demander | ai demandé |
@@ -396,7 +396,7 @@
 
 ### Verbes en -IR (réguliers)
 
-#### choisir (to choose)
+#### choisir (to choose) [ʃwaziʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | choisis | vais choisir | ai choisi |
@@ -408,7 +408,7 @@
 
 ### Verbes en -RE (réguliers)
 
-#### battre (to beat, to whisk)
+#### battre (to beat, to whisk) [batʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | bats | vais battre | ai battu |
@@ -418,7 +418,7 @@
 | vous | battez | allez battre | avez battu |
 | ils/elles | battent | vont battre | ont battu |
 
-#### répondre (to answer, to reply)
+#### répondre (to answer, to reply) [ʁepɔ̃dʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | réponds | vais répondre | ai répondu |
@@ -428,7 +428,7 @@
 | vous | répondez | allez répondre | avez répondu |
 | ils/elles | répondent | vont répondre | ont répondu |
 
-#### entendre (to hear)
+#### entendre (to hear) [ɑ̃tɑ̃dʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | entends | vais entendre | ai entendu |
@@ -442,7 +442,7 @@
 
 ## Verbes Irréguliers
 
-#### mélanger (to mix)
+#### mélanger (to mix) [melɑ̃ʒe]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | mélange | vais mélanger | ai mélangé |
@@ -452,7 +452,7 @@
 | vous | mélangez | allez mélanger | avez mélangé |
 | ils/elles | mélangent | vont mélanger | ont mélangé |
 
-#### mettre (to put, to place)
+#### mettre (to put, to place) [mɛtʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | mets | vais mettre | ai mis |
@@ -462,7 +462,7 @@
 | vous | mettez | allez mettre | avez mis |
 | ils/elles | mettent | vont mettre | ont mis |
 
-#### allumer (to light, to turn on)
+#### allumer (to light, to turn on) [alyme]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | allume | vais allumer | ai allumé |
@@ -472,7 +472,7 @@
 | vous | allumez | allez allumer | avez allumé |
 | ils/elles | allument | vont allumer | ont allumé |
 
-#### apporter (to bring something)
+#### apporter (to bring something) [apɔʁte]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | apporte | vais apporter | ai apporté |
@@ -482,7 +482,7 @@
 | vous | apportez | allez apporter | avez apporté |
 | ils/elles | apportent | vont apporter | ont apporté |
 
-#### servir (to serve)
+#### servir (to serve) [sɛʁviʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | sers | vais servir | ai servi |
@@ -492,7 +492,7 @@
 | vous | servez | allez servir | avez servi |
 | ils/elles | servent | vont servir | ont servi |
 
-#### ouvrir (to open)
+#### ouvrir (to open) [uvʁiʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | ouvre | vais ouvrir | ai ouvert |
@@ -502,7 +502,7 @@
 | vous | ouvrez | allez ouvrir | avez ouvert |
 | ils/elles | ouvrent | vont ouvrir | ont ouvert |
 
-#### chauffer (to heat)
+#### chauffer (to heat) [ʃofe]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | chauffe | vais chauffer | ai chauffé |
@@ -512,7 +512,7 @@
 | vous | chauffez | allez chauffer | avez chauffé |
 | ils/elles | chauffent | vont chauffer | ont chauffé |
 
-#### pouvoir (to be able to, can)
+#### pouvoir (to be able to, can) [puvwaʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | peux | vais pouvoir | ai pu |
@@ -522,7 +522,7 @@
 | vous | pouvez | allez pouvoir | avez pu |
 | ils/elles | peuvent | vont pouvoir | ont pu |
 
-#### vouloir (to want)
+#### vouloir (to want) [vulwaʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | veux | vais vouloir | ai voulu |
@@ -532,7 +532,7 @@
 | vous | voulez | allez vouloir | avez voulu |
 | ils/elles | veulent | vont vouloir | ont voulu |
 
-#### lire (to read)
+#### lire (to read) [liʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | lis | vais lire | ai lu |
@@ -542,7 +542,7 @@
 | vous | lisez | allez lire | avez lu |
 | ils/elles | lisent | vont lire | ont lu |
 
-#### faire (to do, to make)
+#### faire (to do, to make) [fɛʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | fais | vais faire | ai fait |
@@ -552,7 +552,7 @@
 | vous | faites | allez faire | avez fait |
 | ils/elles | font | vont faire | ont fait |
 
-#### appeler (to call)
+#### appeler (to call) [aple]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | appelle | vais appeler | ai appelé |
@@ -562,7 +562,7 @@
 | vous | appelez | allez appeler | avez appelé |
 | ils/elles | appellent | vont appeler | ont appelé |
 
-#### aller (to go)
+#### aller (to go) [ale]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | vais | vais aller | suis allé(e) |
@@ -572,7 +572,7 @@
 | vous | allez | allez aller | êtes allé(e)(s) |
 | ils/elles | vont | vont aller | sont allé(e)s |
 
-#### prendre (to take)
+#### prendre (to take) [pʁɑ̃dʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | prends | vais prendre | ai pris |
@@ -582,7 +582,7 @@
 | vous | prenez | allez prendre | avez pris |
 | ils/elles | prennent | vont prendre | ont pris |
 
-#### goûter (to taste)
+#### goûter (to taste) [ɡute]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | goûte | vais goûter | ai goûté |
@@ -592,7 +592,7 @@
 | vous | goûtez | allez goûter | avez goûté |
 | ils/elles | goûtent | vont goûter | ont goûté |
 
-#### partir (to leave, to depart)
+#### partir (to leave, to depart) [paʁtiʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | pars | vais partir | suis parti(e) |
@@ -602,7 +602,7 @@
 | vous | partez | allez partir | êtes parti(e)(s) |
 | ils/elles | partent | vont partir | sont parti(e)s |
 
-#### apprendre (to learn)
+#### apprendre (to learn) [apʁɑ̃dʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | apprends | vais apprendre | ai appris |
@@ -612,7 +612,7 @@
 | vous | apprenez | allez apprendre | avez appris |
 | ils/elles | apprennent | vont apprendre | ont appris |
 
-#### venir (to come)
+#### venir (to come) [vəniʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | viens | vais venir | suis venu(e) |
@@ -622,7 +622,7 @@
 | vous | venez | allez venir | êtes venu(e)(s) |
 | ils/elles | viennent | vont venir | sont venu(e)s |
 
-#### écrire (to write)
+#### écrire (to write) [ekʁiʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | écris | vais écrire | ai écrit |
@@ -632,7 +632,7 @@
 | vous | écrivez | allez écrire | avez écrit |
 | ils/elles | écrivent | vont écrire | ont écrit |
 
-#### écouter (to listen)
+#### écouter (to listen) [ekute]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | écoute | vais écouter | ai écouté |
@@ -642,7 +642,7 @@
 | vous | écoutez | allez écouter | avez écouté |
 | ils/elles | écoutent | vont écouter | ont écouté |
 
-#### suivre (to follow)
+#### suivre (to follow) [sɥivʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | suis | vais suivre | ai suivi |
@@ -652,7 +652,7 @@
 | vous | suivez | allez suivre | avez suivi |
 | ils/elles | suivent | vont suivre | ont suivi |
 
-#### assister (to attend, to assist)
+#### assister (to attend, to assist) [asiste]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | assiste | vais assister | ai assisté |
@@ -662,7 +662,7 @@
 | vous | assistez | allez assister | avez assisté |
 | ils/elles | assistent | vont assister | ont assisté |
 
-#### savoir (to know)
+#### savoir (to know) [savwaʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | sais | vais savoir | ai su |
@@ -672,7 +672,7 @@
 | vous | savez | allez savoir | avez su |
 | ils/elles | savent | vont savoir | ont su |
 
-#### connaître (to know, to be familiar with)
+#### connaître (to know, to be familiar with) [kɔnɛtʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | connais | vais connaître | ai connu |
@@ -684,7 +684,7 @@
 
 ### Verbes Pronominaux
 
-#### se reposer (to rest)
+#### se reposer (to rest) [sə ʁəpoze]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | me repose | vais me reposer | me suis reposé(e) |
@@ -694,7 +694,7 @@
 | vous | vous reposez | allez vous reposer | vous êtes reposé(e)(s) |
 | ils/elles | se reposent | vont se reposer | se sont reposé(e)s |
 
-#### s'inscrire (to register, to sign up)
+#### s'inscrire (to register, to sign up) [sɛ̃skʁiʁ]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | m'inscris | vais m'inscrire | me suis inscrit(e) |
@@ -704,7 +704,7 @@
 | vous | vous inscrivez | allez vous inscrire | vous êtes inscrit(e)(s) |
 | ils/elles | s'inscrivent | vont s'inscrire | se sont inscrit(e)s |
 
-#### arriver (to arrive)
+#### arriver (to arrive) [aʁive]
 | Pronom | Présent | Futur Proche | Passé Composé |
 |--------|---------|--------------|---------------|
 | je | arrive | vais arriver | suis arrivé(e) |
