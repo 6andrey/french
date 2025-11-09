@@ -2,33 +2,32 @@
 
 ## Episode 6
 
-- melanger
+- mélanger
 - peler
 - saupoudrer
 - mettre
 - allumer
 - couper
-- etendre
+- étendre
 - battre
 - incorporer
-- verse
-- prepare
+- verser
+- préparer
 - aimer
 - adorer
-- detester
+- détester
 
 ## Episode 7
 
 - rappeler
 - apporter
-- egoutter
+- égoutter
 - hacher
-- melanger
-- server
-- ouvrer
-- chauffrer
-- deposer
-- reponder
+- servir
+- ouvrir
+- chauffer
+- déposer
+- répondre
 - arriver
 - parler
 - saluer
@@ -39,13 +38,11 @@
 
 ## Episode 8
 
-- echanger
+- échanger
 - troquer
 - exprimer
 - essayer
-- apporter
 - pouvoir
-- aimer
 - vouloir
 - demander
 
@@ -64,32 +61,29 @@
 - appeler
 - aller
 - prendre
-- gouter
+- goûter
 - partir
 
 ## Episode 10
 
-- arriver
-- deplacer
-- apporter
+- déplacer
 - partager
 
 ## Episode 11
 
 - participer
-- apprener
-- decouvrer
+- apprendre
+- découvrir
 - venir
 - parcourir
 - jardiner
-- ecrire
-- ecouter
+- écrire
+- écouter
 - voyager
-- apprendre
 - suivre
 - assister
 - entendre
-- choissir
+- choisir
 - s'inscrire
 - savoir
-- connaitre
+- connaître
